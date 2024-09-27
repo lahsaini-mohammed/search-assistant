@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-community
+beautifulsoup4
+termcolor
+jsonschema
